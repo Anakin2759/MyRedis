@@ -1,0 +1,4 @@
+#ifndef MYREDIS_CONNECTION_H
+#define MYREDIS_CONNECTION_H
+
+#endif
